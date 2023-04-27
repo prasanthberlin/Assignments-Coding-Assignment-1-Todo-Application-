@@ -1,0 +1,23 @@
+/* Write your code here. */
+.sub-container {
+  font-family: roboto;
+}
+
+.d-flex {
+  display: flex;
+}
+.primary-bg-color {
+  background-color: #0b69ff;
+}
+
+.success-bg-color {
+  background-color: #2dca73;
+}
+
+.warning-bg-color {
+  background-color: #ffb800;
+}
+
+.danger-bg-color {
+  background-color: #ff0b37;
+}
